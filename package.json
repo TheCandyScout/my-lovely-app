@@ -12,16 +12,28 @@
     "deploy": "gh-pages -d out"
   },
   "dependencies": {
-    "next": "15.1.7",
+    "canvas": "^3.1.0",
+    "konva": "^9.3.20",
+    "lodash": "^4.17.21",
+    "next": "^15.3.1",
     "react": "^19.0.0",
     "react-compare-slider": "^3.1.0",
-    "react-dom": "^19.0.0"
+    "react-dom": "^19.0.0",
+    "react-inner-image-zoom": "^4.0.1",
+    "react-konva": "^19.0.3",
+    "react-medium-image-zoom": "^5.2.14",
+    "react-modal": "^3.16.3",
+    "three": "^0.176.0",
+    "webxr-polyfill": "^2.0.3"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
+    "@types/lodash": "^4.17.16",
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
+    "@types/three": "^0.176.0",
+    "@types/webxr": "^0.5.22",
     "eslint": "^9",
     "eslint-config-next": "15.1.7",
     "gh-pages": "^6.3.0",

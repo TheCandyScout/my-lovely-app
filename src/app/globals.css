@@ -193,5 +193,6 @@ hr.ends {
   align-content: center;
   display: flex;
   margin: auto;
-  display: inline;
+  display: block;
+  width: 50%;
 }

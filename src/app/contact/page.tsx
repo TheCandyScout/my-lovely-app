@@ -6,7 +6,7 @@ export default function Home() {
                     <div className="box-main">
                         <div className="firstHalf">
                             <h1 className="text-big">
-                                contact
+                                Contact Me
                             </h1>
                             <p className="text-small">
                                 Lorem Ipsom
